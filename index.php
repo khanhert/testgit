@@ -6,6 +6,8 @@
 	<title>Document</title>
 </head>
 <body>
-	<h2> dcm gitHub </h2>
+	<?php
+	echo "Hello World";
+	?>
 </body>
 </html>
